@@ -2,7 +2,7 @@
 ![solari_metor](solari_metor.jpg)
 ## Descrizione
 
-Orologio elettromeccanico prodotto da Solari qualche decennio fa ... (http://www.assosrl.it/catalogo/fuori-commercio/metor).
+Il Metor è un orologio elettromeccanico prodotto da Solari qualche decennio fa ... (http://www.assosrl.it/catalogo/fuori-commercio/metor).
 Il suo funzionamento era basato su una scheda master di controllo a cui gli orologi venivano collegati in parallelo e venivano azionati dalla stessa scheda tramite una tensione di 24v.
 la scheda master generava un impulso di durata breve, ogni minuto, invertendone alternativamente la polarità. La piccola schedina a bordo dell'orologio si occupava di attivare il motorino DC collegato alla meaccanica delle palette, e di gestire l'interruttore di fine corsa in modo da fermare il movimento del motorino dopo lo scatto del minuto in maniera precisa.
 Inutile dire che non è cosa facile recuperare la scheda master originale ed è sicuramente più laborioso riprogettare una scheda che la emuli.

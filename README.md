@@ -43,7 +43,7 @@ In questo caso visto che utilizzeremo un PINCHANGE interrupt sarà sufficiente u
      |                                               |                            
      |                                               |                            
      |    +-----------------+                 +------------+                      
-     -----|+ VCC 5v     PB7 |-----------------|IN1  5V  MA1|-----------           
+     -----|+ VCC 5v     PB7 |-----------------|IN1  +5V MA1|-----------           
           |                 |                 |            |         To DC MOTOR  
           |             PB6 |-----------------|IN2      MA2|-----------           
           |                 |                 |            |                      

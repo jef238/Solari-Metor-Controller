@@ -49,7 +49,7 @@ In questo caso visto che utilizzeremo un PINCHANGE interrupt sarà sufficiente u
           |                 |                 |            |                      
           |                 |                 | L298N mini |                      
           | jefBOARD        |                 |            |                      
-          |                 |       GND ------| GND        |                      
+          |                 |       GND ------|GND         |                      
           |                 |                 +------------+                      
           |                 |                                                     
           |             PB1 |-----------------------------------------             
